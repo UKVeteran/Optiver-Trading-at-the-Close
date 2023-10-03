@@ -13,8 +13,8 @@ Successful modelling can contribute to the consolidation of signals from the auc
 # The Metric: MAE
 The mean absolute error (MAE) is defined mathematically as 
 
-<img src="https://github.com/UKVeteran/Optiver-Trading-at-the-Close/assets/39216339/7825c248-271e-4c73-aaf2-245630967142"width="800" height="600">
+<img src="https://github.com/UKVeteran/Optiver-Trading-at-the-Close/assets/39216339/7825c248-271e-4c73-aaf2-245630967142" width="600" height="600">
 
 and can be visualized 
 
-<img src="https://github.com/UKVeteran/Optiver-Trading-at-the-Close/assets/39216339/129e9167-7c70-428c-a341-ff2c4561163b" width="800" height="600">
+<img src="https://github.com/UKVeteran/Optiver-Trading-at-the-Close/assets/39216339/129e9167-7c70-428c-a341-ff2c4561163b" width="600" height="600">
