@@ -17,4 +17,4 @@ The mean absolute error (MAE) is defined mathematically as
 
 and can be visualized 
 
-![images](https://github.com/UKVeteran/Optiver-Trading-at-the-Close/assets/39216339/129e9167-7c70-428c-a341-ff2c4561163b)
+<img src="https://github.com/UKVeteran/Optiver-Trading-at-the-Close/assets/39216339/129e9167-7c70-428c-a341-ff2c4561163b" width="1200" height="100">
