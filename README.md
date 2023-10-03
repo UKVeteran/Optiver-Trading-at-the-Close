@@ -19,3 +19,5 @@ and can be visualized
 
 <p align="center">
 <img src="https://github.com/UKVeteran/Optiver-Trading-at-the-Close/assets/39216339/129e9167-7c70-428c-a341-ff2c4561163b" width="400" height="350"></p>
+
+# Data Exploration & Viz.
